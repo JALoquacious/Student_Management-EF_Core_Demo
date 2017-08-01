@@ -10242,10 +10242,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jlikoudi\\documents\\visual studio 2017\\Projects\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+      "projectUniqueName": "C:\\Users\\jlikoudi\\Documents\\GitHub\\Student_Management-EF_Core_Demo\\StudentManagement\\StudentManagement.csproj",
       "projectName": "StudentManagement",
-      "projectPath": "C:\\Users\\jlikoudi\\documents\\visual studio 2017\\Projects\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
-      "outputPath": "C:\\Users\\jlikoudi\\documents\\visual studio 2017\\Projects\\StudentManagement\\StudentManagement\\obj\\",
+      "projectPath": "C:\\Users\\jlikoudi\\Documents\\GitHub\\Student_Management-EF_Core_Demo\\StudentManagement\\StudentManagement.csproj",
+      "outputPath": "C:\\Users\\jlikoudi\\Documents\\GitHub\\Student_Management-EF_Core_Demo\\StudentManagement\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
