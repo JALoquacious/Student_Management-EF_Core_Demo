@@ -39,8 +39,7 @@ namespace StudentManagement.Data
                 new Course{CourseID=2021,Title="Composition",Credits=3},
                 new Course{CourseID=2042,Title="Literature",Credits=4}
             };
-
-
+            
             var enrollments = new Enrollment[]
             {
                 new Enrollment{StudentID=1,CourseID=1050,Grade=Grade.A},
