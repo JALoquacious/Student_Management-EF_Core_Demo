@@ -1,0 +1,9 @@
+c:\users\jlikoudi\documents\visual studio 2017\Projects\StudentManagement\StudentManagement\bin\Debug\netcoreapp1.1\StudentManagement.deps.json
+c:\users\jlikoudi\documents\visual studio 2017\Projects\StudentManagement\StudentManagement\bin\Debug\netcoreapp1.1\StudentManagement.runtimeconfig.json
+c:\users\jlikoudi\documents\visual studio 2017\Projects\StudentManagement\StudentManagement\bin\Debug\netcoreapp1.1\StudentManagement.runtimeconfig.dev.json
+c:\users\jlikoudi\documents\visual studio 2017\Projects\StudentManagement\StudentManagement\bin\Debug\netcoreapp1.1\StudentManagement.dll
+c:\users\jlikoudi\documents\visual studio 2017\Projects\StudentManagement\StudentManagement\bin\Debug\netcoreapp1.1\StudentManagement.pdb
+c:\users\jlikoudi\documents\visual studio 2017\Projects\StudentManagement\StudentManagement\obj\Debug\netcoreapp1.1\StudentManagement.csprojResolveAssemblyReference.cache
+c:\users\jlikoudi\documents\visual studio 2017\Projects\StudentManagement\StudentManagement\obj\Debug\netcoreapp1.1\StudentManagement.AssemblyInfo.cs
+c:\users\jlikoudi\documents\visual studio 2017\Projects\StudentManagement\StudentManagement\obj\Debug\netcoreapp1.1\StudentManagement.dll
+c:\users\jlikoudi\documents\visual studio 2017\Projects\StudentManagement\StudentManagement\obj\Debug\netcoreapp1.1\StudentManagement.pdb
